@@ -13,8 +13,8 @@ Exercises:
 
 Companion samples:
 
-- [Next.js App Router](https://github.com/seligj95/embr-sample-nextjs-app-router)
-- [Next.js Pages Router](https://github.com/seligj95/embr-sample-nextjs-pages)
+- [Next.js App Router](https://github.com/embr-devs/embr-sample-nextjs-app-router)
+- [Next.js Pages Router](https://github.com/embr-devs/embr-sample-nextjs-pages)
 
 ## Deploy to Embr
 
